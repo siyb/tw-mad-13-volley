@@ -147,8 +147,8 @@ protected void onPause() {
 
 * If you need something more special you can implement your own request types
 * All you got to do is extend Response<T> and implement the abstract methods
-   * parseNetworkResponse
-   * deliverResponse
+    * parseNetworkResponse
+    * deliverResponse
 
 ## Custom Request Types - 2 - Example: gson
 
